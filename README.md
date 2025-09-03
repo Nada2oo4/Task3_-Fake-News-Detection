@@ -7,7 +7,7 @@ Detecting fake news is a critical NLP application with real-world impact, helpin
 
 📂 Dataset:
 
-Source: Fake News Dataset (commonly from Kaggle or similar repositories).
+Source: Fake News Dataset ( from Kaggle ).
 Size: Thousands of labeled news articles.
 Labels:
 1 → Fake news
